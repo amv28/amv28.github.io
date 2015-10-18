@@ -1,0 +1,17 @@
+h1 {
+  padding-top: 95px;
+	padding-right: 10px;
+  padding-bottom: 35px;
+}
+a:hover {
+  color: gray;
+}
+body {
+  padding-left: 100px;
+	color: ivory;
+	font-family: helvetica;
+	text-align: left;
+	background: url("http://www.keithlantz.net/wp-content/uploads/2011/10/waves_dft_triangles.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
