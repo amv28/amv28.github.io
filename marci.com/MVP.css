@@ -1,0 +1,113 @@
+body {
+  font-family: Raleway;
+}
+/*h1 {
+  padding-left: 50px;
+  letter-spacing: 4px;
+  font-weight: 300;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}*/
+hr {
+  color: #eeeeee;
+}
+ul {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+li {
+  padding-left: 25px;
+  padding-right: 25px;
+  text-align: center;
+  display: inline;
+}
+a {
+  text-decoration: none;
+  letter-spacing: 3px;
+  color:black;
+  font-size: 22px;
+}
+#ux {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15%;
+  letter-spacing: 10px;
+}
+#title {
+  text-align: center;
+padding-top: 40px;
+
+}
+#funzies {
+    margin: -5%;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 40px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    list-style: none;
+    margin-right: -2%;
+  }
+#funzies:hover {
+    background-color: white;
+}
+img {
+  width: 2.5%;
+  height: 2.5%;
+  margin-top: 0;
+  padding-right: 4px;
+}
+#headingcontainer {
+  display: block;
+  width: 1024px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+}
+#name {
+  padding-left: 50px;
+  padding-bottom: 70px;
+  letter-spacing: 9px;
+  font-size: 30px;
+}
+#email {
+  font-size: 19px;
+  line-height: 180%;
+  letter-spacing: 2px;
+  display: block;
+  width: 1024px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  padding-right: 30px;
+  margin-bottom: 15%;
+}
+h5 {
+  padding-left: 10px;
+}
+h6 {
+  padding-left: 70px;
+  margin-bottom: 0%;
+}
+p {
+  padding-left: 70px;
+  font-size: 11px;
+  line-height: 140%;
+}
+#resume {
+  margin-top: 7.5%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+}
+#edu {
+  margin-bottom: 1%;
+}

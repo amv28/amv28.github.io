@@ -7,6 +7,7 @@ a:hover {
   color: gray;
 }
 body {
+  margin: 0;
   padding-left: 100px;
 	color: ivory;
 	font-family: helvetica;
@@ -14,4 +15,5 @@ body {
 	background: url("http://www.keithlantz.net/wp-content/uploads/2011/10/waves_dft_triangles.jpg");
   background-size: cover;
   background-repeat: no-repeat;
+  -webkit-filter: grayscale(120%);
 }

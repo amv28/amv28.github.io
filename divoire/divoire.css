@@ -1,0 +1,53 @@
+/* html {
+  background-image: url("pinkwaves.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+looked up how to stretch the image at csstricks.com this doesnt work ends up tiling,
+code below worked rly well but didn't let me put type over the image, got help
+this is the working code, made the background image and content its own class. webkit is specific for CHROME. go to caniuse*/
+body {
+  background-image:url("pinkwaves.jpg");
+  background-size:cover;
+}
+
+.content {
+  padding-top: 500px;
+  background: none;
+  border-radius: 3px;
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0);
+  font-family: Raleway, sans-serif;
+  font-size: 22px;
+  color: black;
+  top: 10px;
+  left: 0;
+  position: fixed;
+  margin-left: 20px;
+  margin-right: 20px;
+  right: 0;
+  z-index: 2;
+  padding: 0 10px;
+}
+ol {
+  list-style-type:none;
+  line-height: 75px;
+}
+.small {
+  padding-top: 18px;
+  line-height: 40px;
+}
+h1 {
+  padding-left: 30px;
+}
+  /*-webkit-filter: blur(6px);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  min-width: 50%;
+  min-height: 50%;
+  -webkit-filter: blur(6px);
+}

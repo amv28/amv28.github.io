@@ -1,0 +1,90 @@
+body {
+  font-family: Raleway;
+  margin-bottom: 100px;
+  text-align: center;
+}
+h1 {
+  font-size: 45px;
+  letter-spacing: 5px;
+  text-align: center;
+  padding-left: 35px;
+  padding-top: 40px;
+  margin-bottom: -30px;
+}
+div {
+  width: 425px;
+  position: relative;
+  margin: auto;
+}
+.links {
+  padding-left: 10px;
+}
+#menu ul {
+    list-style: none;
+    text-align: center;
+    height: auto;
+    margin: 30px;
+}
+#menu li {
+/*display: inline;*/
+background-color: #d6d6d6;
+border-radius: 20px;
+text-align: center;
+padding-left: 0px;
+padding-right: 50px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin: 20px;
+}
+#menu a {
+  text-decoration: none;
+  text-align: center;
+  color: black;
+  letter-spacing: 3px;
+  font-weight: bold;
+}
+#menu a:hover {
+  color: white;
+}
+#menu li:hover {
+  color: white;
+  background-color: black;
+}
+ul {
+  margin: 0px;
+  padding: 10px 10px 10px 0px;
+}
+a {
+  color: black;
+  text-decoration: none;
+  letter-spacing: 1.5px;
+}
+a:hover {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+td {
+  background-color: #d6d6d6;
+  border-radius: 50px;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bold;
+}
+td:hover {
+  background-color: black;
+}
+div {
+  padding-left: 50px;
+}
+h2 {
+  padding-top: 40px;
+  padding-left: 0px;
+}
+footer {
+    display: block;
+}
