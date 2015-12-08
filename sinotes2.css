@@ -77,6 +77,9 @@ li:hover {
 #menu {
   margin-top: -25%;
 }
+#resume {
+  max-width: 550px;
+}
 footer {
     display: block;
 }
