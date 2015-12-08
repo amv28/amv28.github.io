@@ -77,7 +77,9 @@ li:hover {
 #menu {
   margin-top: -25%;
 }
-
+#resume {
+  maxwidth: 500px;
+}
   /*#menu ul {
     list-style: none;
     text-align: center;
