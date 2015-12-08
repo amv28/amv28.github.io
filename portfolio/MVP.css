@@ -104,6 +104,7 @@ p {
   line-height: 140%;
 }
 #resume {
+  max-width: 550px;
   margin-top: 7.5%;
   margin-bottom: 10%;
   margin-left: 5%;
