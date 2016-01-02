@@ -42,21 +42,17 @@ padding-top: 40px;
 
 }
 #funzies {
-    margin: -5%;
     background-color: black;
     color: white;
     border-radius: 50px;
-    text-align: center;
-    padding-left: 20px;
-    padding-right: 40px;
-    padding-top: 30px;
-    padding-bottom: 5px;
+    padding: 10px 20px 5px 20px;
     font-weight: bold;
     list-style: none;
     margin-right: -2%;
   }
 #funzies:hover {
     background-color: white;
+    color: black;
 }
 img {
   width: 2.5%;
@@ -110,4 +106,7 @@ p {
 }
 #edu {
   margin-bottom: 1%;
+}
+#menu {
+  text-align: center;
 }
