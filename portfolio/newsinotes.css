@@ -15,6 +15,9 @@ h1 {
   font-size: 43px;
   letter-spacing: 10px;
 }
+h5 {
+  text-align: center;
+}
 a {
   color:black;
   text-decoration: none;
