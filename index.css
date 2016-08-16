@@ -107,6 +107,7 @@ old version */
 
 body {
   font-family: Questrial;
+  text-align: center;
 }
 .header {
 	width: 1024px;
