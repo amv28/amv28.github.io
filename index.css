@@ -197,7 +197,7 @@ img {
 }
 #name {
   padding-left: 50px;
-  padding-bottom: 70px;
+  padding-bottom: 0px;
   letter-spacing: 9px;
   font-size: 30px;
 }
